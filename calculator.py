@@ -1,3 +1,7 @@
-a = 5
-b = 10
-print(a + b)
+batman = 10
+def joker():
+    if batman >= 10:
+        print('Готэм спасен')
+    else:
+        print('Джокер победил')
+joker()
